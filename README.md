@@ -1,8 +1,43 @@
 # ISL_python
 An Introduction to Statistical Learning with Applications in PYTHON
 
-I love the book << An Introduction to Statistical Learning with Applications in R>> by Gareth James • Daniela Witten • Trevor Hastie and Robert Tibshirani. Don't let R or Python stop you reading throught this book.  Please refer http://www-bcf.usc.edu/~gareth/ISL/ for more details.
+I love the book << An Introduction to Statistical Learning with Applications in R>> by Gareth James • Daniela Witten • Trevor Hastie and Robert Tibshirani. Don't let R or Python stop you reading throught this book.  Please refer https://www.statlearning.com/ for more details.
 
-What I want to do here is to translate the R example into Python exmple. Don't let the language barriers stop you from exploring something fun and useful.
+In 2nd Edition, the authors introduced a R library ISLR2 for all the dataset used in the book. In this repository, I have implemented the same/similar functionality in Python. Hope this could help this book reach more broad audience. Don't let the language barriers stop you from exploring something fun and useful.
 
 
+Reference: Art by Blazej Kozlowski
+           __.                                              
+        .-".'                      .--.            _..._    
+      .' .'                     .'    \       .-""  __ ""-. 
+     /  /                     .'       : --..:__.-""  ""-. \
+    :  :                     /         ;.d$$    sbp_.-""-:_:
+    ;  :                    : ._       :P .-.   ,"TP        
+    :   \                    \  T--...-; : d$b  :d$b        
+     \   `.                   \  `..'    ; $ $  ;$ $        
+      `.   "-.                 ).        : T$P  :T$P        
+        \..---^..             /           `-'    `._`._     
+       .'        "-.       .-"                     T$$$b    
+      /             "-._.-"               ._        '^' ;   
+     :                                    \.`.         /    
+     ;                                -.   \`."-._.-'-'     
+    :                                 .'\   \ \ \ \         
+    ;  ;                             /:  \   \ \ . ;        
+   :   :                            ,  ;  `.  `.;  :        
+   ;    \        ;                     ;    "-._:  ;        
+  :      `.      :                     :         \/         
+  ;       /"-.    ;                    :                    
+ :       /    "-. :                  : ;                    
+ :     .'        T-;                 ; ;        
+ ;    :          ; ;                /  :        
+ ;    ;          : :              .'    ;       
+:    :            ;:         _..-"\     :       
+:     \           : ;       /      \     ;      
+;    . '.         '-;      /        ;    :      
+;  \  ; :           :     :         :    '-.      
+'.._L.:-'           :     ;  Bommy   ;    . `. 
+                     ;    :          :  \  ; :  
+                     :    '-..       '.._L.:-'  
+                      ;     , `.                
+                      :   \  ; :                
+                      '..__L.:-'

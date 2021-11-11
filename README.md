@@ -8,8 +8,8 @@ In 2nd Edition, the authors introduced a R library ISLR2 for all the dataset use
 
 Reference: https://www.asciiart.eu/animals/dogs
 
-            Bommy
-              __
+      Bommy
+               __
           (___()'`;  
           /,    /`
           \\"--\\

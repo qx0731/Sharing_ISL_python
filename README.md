@@ -11,4 +11,6 @@ Reference: https://www.asciiart.eu/animals/dogs
                __
           (___()'`;
           /,    /`
-Bommy     \\"--\\
+          \\"--\\
+
+Bommy the dog 

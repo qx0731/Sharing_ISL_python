@@ -1,0 +1,89 @@
+"sex","diagnosis","loc","ki","gtv","stereo","status","time"
+"Female","Meningioma","Infratentorial",90,6.11,"SRS",0,57.64
+"Male","HG glioma","Supratentorial",90,19.35,"SRT",1,8.98
+"Female","Meningioma","Infratentorial",70,7.95,"SRS",0,26.46
+"Female","LG glioma","Supratentorial",80,7.61,"SRT",1,47.8
+"Male","HG glioma","Supratentorial",90,5.06,"SRT",1,6.3
+"Female","Meningioma","Supratentorial",80,4.82,"SRS",0,52.75
+"Male","Meningioma","Supratentorial",80,3.19,"SRT",0,55.8
+"Male","LG glioma","Supratentorial",80,12.37,"SRT",0,42.1
+"Female","Meningioma","Supratentorial",70,12.16,"SRT",0,34.66
+"Male","HG glioma","Supratentorial",100,2.53,"SRT",0,11.48
+"Male","LG glioma","Supratentorial",80,0.14,"SRT",1,35.93
+"Female","Meningioma","Infratentorial",90,6.54,"SRS",0,34.26
+"Female","Meningioma","Infratentorial",90,0.63,"SRS",0,32.98
+"Male",NA,"Supratentorial",90,6.38,"SRT",0,50.85
+"Female","Meningioma","Supratentorial",60,9.18,"SRT",0,41.44
+"Female","HG glioma","Supratentorial",70,11.38,"SRS",1,7.05
+"Female","Other","Infratentorial",60,24,"SRT",1,6.82
+"Male","HG glioma","Supratentorial",90,10.8,"SRT",0,82.56
+"Male","Meningioma","Supratentorial",80,13.49,"SRS",1,6.92
+"Female","Meningioma","Supratentorial",90,2.5,"SRT",0,30.16
+"Female","Meningioma","Supratentorial",80,2.82,"SRS",0,24.39
+"Male","HG glioma","Supratentorial",70,14.44,"SRT",1,14
+"Female","Other","Infratentorial",80,2.11,"SRS",0,10.49
+"Female","Meningioma","Infratentorial",100,2.13,"SRS",1,51.02
+"Female","Meningioma","Supratentorial",70,6.48,"SRT",1,33.41
+"Male","LG glioma","Supratentorial",90,4.23,"SRT",1,25.02
+"Male","Other","Supratentorial",60,34.64,"SRT",1,11.57
+"Male","HG glioma","Supratentorial",70,33.69,"SRT",1,0.07
+"Male","Meningioma","Supratentorial",60,3.81,"SRT",0,36.1
+"Female","Meningioma","Supratentorial",90,4.72,"SRS",0,65.02
+"Female","LG glioma","Supratentorial",80,0.85,"SRS",1,6.1
+"Male","Meningioma","Supratentorial",90,2.56,"SRS",0,44.39
+"Female","Other","Infratentorial",70,13.45,"SRT",1,10.82
+"Male","Other","Infratentorial",80,6.81,"SRS",0,57.11
+"Female","Meningioma","Supratentorial",90,7.3,"SRT",0,5.51
+"Female","Other","Supratentorial",70,14.26,"SRT",0,7.18
+"Female","Meningioma","Supratentorial",80,6.6,"SRT",0,14.75
+"Male","HG glioma","Supratentorial",90,9.95,"SRT",1,6.23
+"Male","Other","Infratentorial",80,12.51,"SRT",1,29.7
+"Female","Meningioma","Supratentorial",90,2.54,"SRT",0,45.74
+"Female","Meningioma","Supratentorial",80,1.57,"SRT",0,2.03
+"Male","HG glioma","Supratentorial",90,0.28,"SRT",1,16.43
+"Female","Meningioma","Supratentorial",70,6.7,"SRT",0,14.56
+"Male","Meningioma","Supratentorial",80,12.63,"SRT",1,4.16
+"Male","Other","Infratentorial",90,3.12,"SRT",0,18.95
+"Male","Meningioma","Supratentorial",60,7.09,"SRS",1,31.25
+"Male","HG glioma","Supratentorial",80,29.27,"SRT",0,5.15
+"Female","Meningioma","Supratentorial",80,26.31,"SRT",1,39.54
+"Male","Meningioma","Supratentorial",70,0.97,"SRT",1,1.41
+"Female","LG glioma","Supratentorial",80,0.19,"SRS",0,11.51
+"Female","HG glioma","Supratentorial",90,0.04,"SRT",0,31.67
+"Female","Meningioma","Infratentorial",90,9.24,"SRT",0,26.85
+"Male","HG glioma","Supratentorial",90,2.5,"SRT",1,9.77
+"Male","Meningioma","Infratentorial",80,24.41,"SRT",0,39.54
+"Female","HG glioma","Supratentorial",80,0.63,"SRT",1,16.92
+"Male","Other","Infratentorial",90,0.48,"SRS",0,54.43
+"Male","HG glioma","Infratentorial",80,0.22,"SRS",0,33.67
+"Male","HG glioma","Supratentorial",80,3.75,"SRT",1,19.9
+"Female","Other","Supratentorial",80,11.83,"SRT",1,22.03
+"Female","Meningioma","Supratentorial",90,2.47,"SRT",0,17.57
+"Female","HG glioma","Supratentorial",80,12.08,"SRT",1,7.25
+"Male","Meningioma","Supratentorial",80,11.51,"SRT",1,14.62
+"Female","HG glioma","Supratentorial",40,22.87,"SRT",1,3.38
+"Male","Meningioma","Supratentorial",80,4.77,"SRT",0,67.38
+"Male","LG glioma","Supratentorial",80,9.58,"SRT",0,78.75
+"Female","Meningioma","Supratentorial",100,4,"SRT",0,52.23
+"Female","HG glioma","Supratentorial",80,7.59,"SRT",1,4.56
+"Male","Other","Infratentorial",70,0.01,"SRS",0,23.67
+"Female","Meningioma","Supratentorial",80,6.93,"SRS",0,10.1
+"Female","Meningioma","Supratentorial",70,3.63,"SRT",0,32.82
+"Male","Meningioma","Supratentorial",70,8.45,"SRT",0,19.41
+"Male","Meningioma","Supratentorial",80,20.93,"SRT",1,31.15
+"Male","LG glioma","Supratentorial",90,2.64,"SRT",0,20.13
+"Female","HG glioma","Supratentorial",80,0.19,"SRT",1,11.02
+"Male","Other","Supratentorial",100,24.91,"SRT",0,19.74
+"Female","Meningioma","Supratentorial",80,31.74,"SRT",0,57.25
+"Female","Meningioma","Supratentorial",80,2.39,"SRS",0,73.74
+"Female","Meningioma","Supratentorial",90,7.26,"SRT",0,49.05
+"Female","Meningioma","Supratentorial",100,9.66,"SRT",0,39.25
+"Female","Meningioma","Infratentorial",70,2.94,"SRS",0,1.54
+"Female","HG glioma","Supratentorial",80,15.45,"SRT",1,46.16
+"Female","Other","Supratentorial",90,1.82,"SRT",0,47.11
+"Male","LG glioma","Infratentorial",90,30.41,"SRT",0,1.18
+"Male","HG glioma","Supratentorial",80,0.16,"SRT",1,20.69
+"Male","HG glioma","Supratentorial",80,19.81,"SRT",1,6.39
+"Male","Meningioma","Supratentorial",90,2.5,"SRT",0,32.82
+"Male","Meningioma","Supratentorial",90,2.02,"SRS",0,42.07
+"Male","Other","Infratentorial",80,0.11,"SRT",0,13.9

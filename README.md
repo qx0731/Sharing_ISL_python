@@ -8,25 +8,31 @@ In this repository, I have implemented the same/similar functionality in Python.
 Please refer https://www.statlearning.com/ for more details. In 2nd Edition, the authors introduced a R library ISLR2 for all the dataset used in the book. 
 
 ### Setup for this repository:
-* Python==3.6.2
-* ipykernal==4.10.0
-* numpy==1.19.2
-* matplotlib==3.3.4
-* pandas==1.1.5
-* statsmodels==0.12.2
-* scikit-learn==0.21.1
-* patsy==0.5.1
-* scipy==1.5.2
-* seaborn==0.11.2
-* json==2.0.9
-* tensorflow==2.0.0
-* keras==2.3.1
-* lifelines==0.26.3
-* math 
-* random 
-* collections
-* itertools
 
+The python environment is managed with [poetry](https://python-poetry.org/) and [pyenv](https://github.com/pyenv/pyenv).
+
+To setup the environment run:
+
+1. Make sure you have `pyenv` installed on your system, with the [pyenv-virtualenv](https://github.com/pyenv/pyenv-virtualenv) plugin.
+2. Run `make pyenv`. This will install pyhton 3.8.12 on your environment, create a virtual local environment `islp` and assign it to this repo.
+3. Run `make jupyter` to start an instance of jupyter lab.
+4. Open and run the notebooks.
+
+
+The dependencies can be seen from [pyproject.toml]() under `[tool.poetry.dependencies]`:
+```
+python = "3.8.12"
+jupyterlab = "^3.2.4"
+pandas = "^1.3.4"
+numpy = "^1.21.5"
+matplotlib = "^3.5.1"
+statsmodels = "^0.13.1"
+scikit-learn = "^1.0.1"
+seaborn = "^0.11.2"
+tensorflow = "^2.7.0"
+keras = "^2.7.0"
+lifelines = "^0.26.4"
+```
 
 ### Special thanks to Bommy
 
